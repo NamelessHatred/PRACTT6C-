@@ -1,0 +1,21 @@
+﻿  ConsoleApplication5c++.cpp
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(31,19): error C2061: синтаксическая ошибка: идентификатор "Algae"
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(28,9): error C2065: track: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(32,9): error C2065: algae: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(32,25): error C2065: alg: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(45,5): error C2065: Fish: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(45,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fish1"
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(45,10): error C3861: fish1: идентификатор не найден
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(46,5): error C2065: Fish: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(46,10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "fish2"
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(46,10): error C3861: fish2: идентификатор не найден
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(48,5): error C2065: Algae: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(48,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "algae1"
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(48,11): error C3861: algae1: идентификатор не найден
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(49,5): error C2065: Algae: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(49,11): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "algae2"
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(49,11): error C3861: algae2: идентификатор не найден
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(53,24): error C2065: fish1: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(54,24): error C2065: fish2: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(56,25): error C2065: algae1: необъявленный идентификатор
+C:\Users\mptr0\Desktop\50-8-22\THISISCPLUS\ConsoleApplication5c++\ConsoleApplication5c++\ConsoleApplication5c++.cpp(57,25): error C2065: algae2: необъявленный идентификатор
